@@ -6,3 +6,5 @@ Es una mejora con respecto a las características mínimas que se piden en la ta
 
 En mi caso aparte de que tenga las opciones de abrir y guardar el texto que se este trabajando y de las opciones de edición de cortar,copiar y pegar (que eran
 las características mínimas exigidas) se ha añadido la característica de que se pueden, iniciar en blanco o abrir, múltiples archivos dentro de la aplicación, a los que se accede a través de las diferentes pestañas que se van creando. Es decir se ha añadido cierta multitarea.
+
+![](https://github.com/Pabloandumundu/PROG07_EditorTexto/blob/master/ExampleImage.png)
